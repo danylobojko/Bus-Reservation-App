@@ -1,0 +1,1 @@
+g++ -std=c++11 -shared -o busReservation.dll export.cpp -fvisibility=hidden -lsqlite3
